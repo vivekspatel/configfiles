@@ -4,5 +4,5 @@ accounts:
   name: "Ana Alapizco - Product Owner"
   email: "ana@easybank.com"
  onCallSupport: 
-  (777)777-1234
-  (777)777-1235
+  - (777)777-1234
+  - (777)777-1235

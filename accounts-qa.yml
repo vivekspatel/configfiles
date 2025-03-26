@@ -4,5 +4,5 @@ accounts:
   name: "Angela Roy - QA Lead"
   email: "angela@easybank.com"
  onCallSupport: 
-  (666)666-1234
-  (666)666-1235
+  - (666)666-1234
+  - (666)666-1235
