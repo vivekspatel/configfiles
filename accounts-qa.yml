@@ -1,0 +1,8 @@
+accounts: 
+ message: "Welcome to Easybank accounts related QA APIs"
+ contactDetails: 
+  name: "Angela Roy - QA Lead"
+  email: "angela@easybank.com"
+ onCallSupport: 
+  (666)666-1234
+  (666)666-1235
