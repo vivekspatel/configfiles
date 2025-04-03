@@ -1,5 +1,5 @@
 accounts: 
- message: "Welcome to Easybank accounts related UAT APIs"
+ message: "Welcome to Easybank accounts related UAT/business APIs"
  contactDetails: 
   name: "Alana Lee - Business Consulting Manager"
   email: "alana@easybank.com"
